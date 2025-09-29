@@ -10,6 +10,8 @@ Dans ce projet, j’ai travaillé sur deux aspects fondamentaux :
 
 Ce travail s’appuie sur l’algorithme **SIFT (Scale-Invariant Feature Transform)**, choisi pour sa robustesse face aux changements d’échelle, de rotation et de luminosité.
 
+![Alt text](img/img02.png)
+
 ---
 
 ## Méthodologie
@@ -18,6 +20,9 @@ Ce travail s’appuie sur l’algorithme **SIFT (Scale-Invariant Feature Transfo
 - **Reconnaissance** : classification basée sur le score de similarité entre les descripteurs de l’image test et ceux de la base d’apprentissage.  
 
 Les expériences ont été menées sur un ensemble de **396 images réparties en 11 classes d’objets**.
+
+![Alt text](img/img03.png)
+
 
 ---
 
@@ -30,6 +35,8 @@ Les expériences ont été menées sur un ensemble de **396 images réparties en
   - Classes problématiques : *Sandwich (22,2 %), Grenouille (28 %), Tomate (24,1 %)*  
 
 Ces résultats confirment la pertinence des descripteurs locaux mais soulignent aussi leurs limites face aux variations d’apparence et aux confusions visuelles entre certaines catégories.
+
+![Alt text](img/img04.png)
 
 ---
 
@@ -54,6 +61,8 @@ Ce projet m’a permis de :
 - NumPy  
 - Matplotlib  
 - Scikit-learn  
+
+![Alt text](img/img01.png)
 
 ---
 
